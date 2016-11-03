@@ -1,0 +1,21 @@
+
+
+.reserve_ranking .info_ranking .inner_ranking {
+    overflow: hidden;
+    padding-left: 3px;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, textarea, p, blockquote, th, td, input, select, textarea, button {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.list_ranking .link_poster {
+    display: block;
+    float: left;
+    padding-right: 22px;
+}
